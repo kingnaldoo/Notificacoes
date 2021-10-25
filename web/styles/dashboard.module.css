@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    height: 70vh;
+    min-width: 70vh;
+    margin: 2vh 10% 2vh;
+}
+
+.container_item {
+    width: 100%;
+    margin: 1vh 0;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 2rem;
+    color: #2d4040;
+}
+
+.filter_button {
+    width: 100%;
+    height: 100%;
+}
